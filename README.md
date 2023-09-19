@@ -46,7 +46,7 @@ public class SampleListenerClass : ISubscriberOptions,  // optional priority and
     public void UnSubscribe() => GlobalBus.UnSubscribe(this);
 ```
 ### Installation
-Through Unity Package Manager git URL: `https://github.com/NullTale/UnityEventBus.git`
+Through Unity Package Manager git URL: `https://github.com/Education-Soft/UnityEventBus.git`
 
 ![PackageManager](https://user-images.githubusercontent.com/1497430/123476308-32c6c500-d605-11eb-8eca-9266624ad58b.gif)
 
